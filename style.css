@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+ .Buttn{
+    height: 100px;
+    width: 200px;
+    /* margin: 400px;
+    padding: 10px; */
+    border-radius: 20px;
+    background: red;
+
+    /* padding-top: 100px;     */
+
+
+}
+
+.Buttn:hover { 
+ background: #af8686;   
+}
+
+#result{
+    
+}
