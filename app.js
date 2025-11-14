@@ -1,26 +1,26 @@
 
 // const colors = ["red","Blue","Green","Purple","Orange","Pink","Yelow"]
 
-var BTN = document.querySelector(".Buttn")
+// var BTN = document.querySelector(".Buttn")
 
-const value = function (){
-    buttn.className.toggleAttribute('dark')
-    return
-}
+// const value = function (){
+//     buttn.className.toggleAttribute('dark')
+//     return
+// }
 
-BTN.toggleAttribute.className = 'Buttn'
+// BTN.toggleAttribute.className = 'Buttn'
 
 
 // value.style
 
-function ChalJa(){
-    document.querySelector('Buttn').toggleAttribute()
-}
+// function ChalJa(){
+//     document.querySelector('Buttn').toggleAttribute()
+// }
 
-const hoga = document.querySelector('img')
+// const hoga = document.querySelector('img')
 
 
-function increment(){
+// function increment(){
     // increment.width + 5
 
         // console.log("Kuch hoga")
@@ -29,8 +29,8 @@ function increment(){
 }
 
 
-function decrement(){
+// function decrement(){
 
-    hoga.width -= 5
+//     hoga.width -= 5
 
-}
+// }
